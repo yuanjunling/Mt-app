@@ -48,7 +48,7 @@ export default {
         name: '酒店',
         child: [{
           title: '假日酒店',
-          child: ['名宿', '星级酒店 ', '豪华酒店21']
+          child: ['名宿', '星级酒店 ', '豪华酒店']
         }]
       }]
     }
